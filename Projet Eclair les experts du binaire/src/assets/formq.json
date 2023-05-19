@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "question": "Question 1",
+        "type": "Linear Scale",
+        "required": "True"
+    },
+    {
+        "id": 2,
+        "question": "Question 2",
+        "type": "Linear Scale",
+        "required": "True"
+    },
+    {
+        "id": 3,
+        "question": "Question 3",
+        "type": "Linear Scale",
+        "required": "True"
+    },
+    {
+        "id": 4,
+        "question": "Question 4",
+        "type": "Text",
+        "required": "False"
+    }
+]

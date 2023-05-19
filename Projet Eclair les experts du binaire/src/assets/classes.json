@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "classes": "B1Dev",
+        "email_groupe": "groupe1@stu-digital-campus.fr"
+    },
+    {
+        "id": 2,
+        "classes": "B2Dev",
+        "email_groupe": "groupe2@stu-digital-campus.fr"
+    },
+    {
+        "id": 3,
+        "classes": "B3Dev",
+        "email_groupe": "groupe3@stu-digital-campus.fr"
+    }
+]
